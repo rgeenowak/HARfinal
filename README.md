@@ -1,11 +1,11 @@
 # Samsung Galaxy S Smartphone Accelerometer data
-The data is publically avaialble from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones). In brief, 30 volunteers, aged 19-48 years, performed six activities (walking, walking upstairs, walking downstairs, sitting, standing, laying) while wearing the Samsung Galaxy S II on their waist. The phone captured triaxial acceleration with an accelerometer and triaxial angular velocity from the gyroscope. This dataset is a subset of the Human Activity Recognition Using Smartphone Dataset Version 1.0 and includes the mean and standard deviation of each measurement averaged across time for each activity and person.
+The data is publically available from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones). In brief, 30 volunteers, aged 19-48 years, performed six activities (walking, walking upstairs, walking downstairs, sitting, standing, laying) while wearing the Samsung Galaxy S II on their waist. The phone captured triaxial acceleration with an accelerometer and triaxial angular velocity from the gyroscope. This dataset is a subset of the Human Activity Recognition Using Smartphone Dataset Version 1.0 and includes the mean and standard deviation of each measurement averaged across time for each activity and person. Cleaning was conducted as part of the Data Science course "Getting and Cleaning Data".
 
 ## Dataset Files
 - READMe.txt
 - HARscript.txt: R code to describe data cleaning
 - Codebook.txt: Describes variables and any transformations from original dataset
-- HARfinal.txt: tidy clean dataset
+- HARsubset.txt: tidy clean dataset
 
 ## Acknowledgements
 1. Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
