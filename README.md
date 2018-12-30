@@ -4,7 +4,7 @@ The data is publically available from [UCI Machine Learning Repository](https://
 ## Dataset Files
 - READMe.txt
 - HARscript: R code to describe data cleaning
-- Codebook.txt: Describes variables and any transformations from original dataset
+- HARcodebook.txt: Describes variables and any transformations from original dataset
 - HARsubset.txt: tidy clean dataset
 
 ## Acknowledgements
