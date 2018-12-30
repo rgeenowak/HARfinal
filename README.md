@@ -2,7 +2,7 @@
 The data is publically available from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones). In brief, 30 volunteers, aged 19-48 years, performed six activities (walking, walking upstairs, walking downstairs, sitting, standing, laying) while wearing the Samsung Galaxy S II on their waist. The phone captured triaxial acceleration with an accelerometer and triaxial angular velocity from the gyroscope. This dataset is a merged subset of the Human Activity Recognition Using Smartphone Dataset Version 1.0 and includes the mean and standard deviation of each measurement by activity and person. Cleaning was conducted as part of the Data Science course "Getting and Cleaning Data".
 
 ## Dataset Files
-- READMe.txt
+- READMe.MD
 - HARscript: R code to describe data cleaning
 - HARcodebook.txt: Describes variables and any transformations from original dataset
 - HARsubset.txt: tidy clean dataset
